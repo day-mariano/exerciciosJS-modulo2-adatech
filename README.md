@@ -1,4 +1,4 @@
-# exerciciosJS
+# Exercicios JS do Modulo 2 Ada Tech
 Pasta de exercícios para o módulo de Lógica de Programação em JS do curso de Front end da Ada Tech.
 
 ## Lógica de Programação
